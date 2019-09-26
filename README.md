@@ -8,3 +8,5 @@ Example repository for software carpentry
 ## Installation
 
 To install, clone this repository.
+
+## Usage
